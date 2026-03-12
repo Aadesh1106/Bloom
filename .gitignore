@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+tyre_optimizer/**/__pycache__/
+tyre_optimizer/data/raw/
+
+.streamlit/
+.cache/
+
+.DS_Store
+Thumbs.db
